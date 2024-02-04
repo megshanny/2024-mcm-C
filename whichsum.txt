@@ -1,0 +1,168 @@
+2023-wimbledon-1406
+p1_next_m_avg         0.246443
+p2_next_m_avg         0.257696
+p1_next_m_gaussian    0.311245
+p2_next_m_gaussian    0.342770
+dtype: float64
+p1_next_m_avg         0.092907
+p2_next_m_avg         0.107380
+p1_next_m_gaussian    0.109918
+p2_next_m_gaussian    0.131435
+dtype: float64
+0.11041001856089216
+2023-wimbledon-1406
+p1_next_m_avg         0.220009
+p2_next_m_avg         0.257012
+p1_next_m_gaussian    0.223701
+p2_next_m_gaussian    0.340287
+dtype: float64
+p1_next_m_avg         0.082905
+p2_next_m_avg         0.106116
+p1_next_m_gaussian    0.091772
+p2_next_m_gaussian    0.115992
+dtype: float64
+0.0991962405118627
+2023-wimbledon-1406
+p1_next_m_avg         0.223612
+p2_next_m_avg         0.258182
+p1_next_m_gaussian    0.232523
+p2_next_m_gaussian    0.340893
+dtype: float64
+p1_next_m_avg         0.082850
+p2_next_m_avg         0.106382
+p1_next_m_gaussian    0.094481
+p2_next_m_gaussian    0.119609
+dtype: float64
+0.10083042685759105
+2023-wimbledon-1406
+p1_next_m_avg         0.233693
+p2_next_m_avg         0.259288
+p1_next_m_gaussian    0.274206
+p2_next_m_gaussian    0.342773
+dtype: float64
+p1_next_m_avg         0.083955
+p2_next_m_avg         0.105270
+p1_next_m_gaussian    0.102880
+p2_next_m_gaussian    0.127726
+dtype: float64
+0.10495772117086302
+2023-wimbledon-1406
+p1_next_m_avg         0.246443
+p2_next_m_avg         0.257696
+p1_next_m_gaussian    0.311245
+p2_next_m_gaussian    0.342770
+dtype: float64
+p1_next_m_avg         0.092907
+p2_next_m_avg         0.107380
+p1_next_m_gaussian    0.109918
+p2_next_m_gaussian    0.131435
+dtype: float64
+0.11041001856089216
+2023-wimbledon-1406
+p1_next_m_avg         0.234647
+p2_next_m_avg         0.259000
+p1_next_m_gaussian    0.278939
+p2_next_m_gaussian    0.342729
+dtype: float64
+p1_next_m_avg         0.085430
+p2_next_m_avg         0.105928
+p1_next_m_gaussian    0.104241
+p2_next_m_gaussian    0.128577
+dtype: float64
+0.1060440287671725
+2023-wimbledon-1406
+p1_next_m_avg         0.176220
+p2_next_m_avg         0.234253
+p1_next_m_gaussian    0.204763
+p2_next_m_gaussian    0.322398
+dtype: float64
+p1_next_m_avg         0.070723
+p2_next_m_avg         0.088649
+p1_next_m_gaussian    0.081905
+p2_next_m_gaussian    0.106707
+dtype: float64
+0.08699609076879575
+2023-wimbledon-1406
+p1_next_m_avg         0.229854
+p2_next_m_avg         0.250904
+p1_next_m_gaussian    0.274419
+p2_next_m_gaussian    0.344141
+dtype: float64
+p1_next_m_avg         0.079177
+p2_next_m_avg         0.089711
+p1_next_m_gaussian    0.100179
+p2_next_m_gaussian    0.119776
+dtype: float64
+0.09721086971056982
+2023-wimbledon-1406
+p1_next_m_avg         0.234647
+p2_next_m_avg         0.259000
+p1_next_m_gaussian    0.278939
+p2_next_m_gaussian    0.342729
+dtype: float64
+p1_next_m_avg         0.085430
+p2_next_m_avg         0.105928
+p1_next_m_gaussian    0.104241
+p2_next_m_gaussian    0.128577
+dtype: float64
+0.1060440287671725
+2023-wimbledon-1406
+p1_next_m_avg         0.233693
+p2_next_m_avg         0.259288
+p1_next_m_gaussian    0.274206
+p2_next_m_gaussian    0.342773
+dtype: float64
+p1_next_m_avg         0.083955
+p2_next_m_avg         0.105270
+p1_next_m_gaussian    0.102880
+p2_next_m_gaussian    0.127726
+dtype: float64
+0.10495772117086302
+2023-wimbledon-1406
+p1_next_m_avg         0.189778
+p2_next_m_avg         0.234502
+p1_next_m_gaussian    0.229953
+p2_next_m_gaussian    0.321503
+dtype: float64
+p1_next_m_avg         0.068184
+p2_next_m_avg         0.086420
+p1_next_m_gaussian    0.078733
+p2_next_m_gaussian    0.104579
+dtype: float64
+0.08447904818196197
+2023-wimbledon-1406
+p1_next_m_avg         0.229854
+p2_next_m_avg         0.250904
+p1_next_m_gaussian    0.274419
+p2_next_m_gaussian    0.344141
+dtype: float64
+p1_next_m_avg         0.079177
+p2_next_m_avg         0.089711
+p1_next_m_gaussian    0.100179
+p2_next_m_gaussian    0.119776
+dtype: float64
+0.09721086971056982
+2023-wimbledon-1406
+p1_next_m_avg         0.246443
+p2_next_m_avg         0.257696
+p1_next_m_gaussian    0.311245
+p2_next_m_gaussian    0.342770
+dtype: float64
+p1_next_m_avg         0.092907
+p2_next_m_avg         0.107380
+p1_next_m_gaussian    0.109918
+p2_next_m_gaussian    0.131435
+dtype: float64
+0.11041001856089216
+2023-wimbledon-1406
+p1_next_m_avg         0.246443
+p2_next_m_avg         0.257696
+p1_next_m_gaussian    0.311245
+p2_next_m_gaussian    0.342770
+dtype: float64
+p1_next_m_avg         0.092907
+p2_next_m_avg         0.107380
+p1_next_m_gaussian    0.109918
+p2_next_m_gaussian    0.131435
+dtype: float64
+0.11041001856089216

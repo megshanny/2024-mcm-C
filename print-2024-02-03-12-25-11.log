@@ -1,0 +1,42 @@
+breakp1和nobreakp1数据个数: 1581
+breakp2和nobreakp2数据个数: 1122
+数据划分说明:当一场比赛内有多个来自同一人的break point时,将break point间的数据均分为两组,离break point近的一组为break point组,远的一组为no break point组
+shapiro检验内容:是否符合正态分布,按照breakp1,nobreakp1,breakp2,nobreakp2顺序
+ShapiroResult(statistic=0.9468472088862095, pvalue=1.9032930625900826e-23) ShapiroResult(statistic=0.9437436160679474, pvalue=4.499426858709809e-24)
+ShapiroResult(statistic=0.945818609679053, pvalue=7.348544888914537e-20) ShapiroResult(statistic=0.9466085923580674, pvalue=1.0261396216287673e-19)
+以下检验均按照breakp1-nobreakp1,breakp2-nobreakp2顺序
+ks_2samp检验内容:两组数据的分布是否有显著差异
+KstestResult(statistic=0.11385199240986717, pvalue=2.423158657032965e-09, statistic_location=1.3973805008395408, statistic_sign=1)
+KstestResult(statistic=0.08467023172905526, pvalue=0.0006383862498878363, statistic_location=1.4633420680354958, statistic_sign=1)
+mannwhitneyu检验内容:两组数据的形状是否有显著差异
+MannwhitneyuResult(statistic=1133683.0, pvalue=6.092886991762161e-06)
+MannwhitneyuResult(statistic=587524.5, pvalue=0.006305394732614356)
+median_test检验内容:两组数据的中位数是否有显著差异
+MedianTestResult(statistic=1.6394686907020872, pvalue=0.20039838146378616, median=0.9211018417273646, table=array([[772, 809],
+       [809, 772]], dtype=int64))
+MedianTestResult(statistic=2.1839407382925713, pvalue=0.13945697948220354, median=0.9022656336040137, table=array([[536, 572],
+       [586, 550]], dtype=int64))
+anderson_ksamp检验内容:两组数据的分布是否有显著差异
+Anderson_ksampResult(statistic=17.791454974547175, critical_values=array([0.325, 1.226, 1.961, 2.718, 3.752, 4.592, 6.546]), pvalue=0.0001)
+Anderson_ksampResult(statistic=5.963562766776436, critical_values=array([0.325, 1.226, 1.961, 2.718, 3.752, 4.592, 6.546]), pvalue=0.002)
+group1p1和group2p2数据个数 3633
+group1p2和group2p2数据个数 3633
+数据划分说明:将一场比赛内的所有数据，交替划分为两组，如果一场比赛内的数据为奇数，则最后一个数据不参与划分
+shapiro检验内容:是否符合正态分布,按照group1p1,group2p1,group1p2,group2p2顺序
+ShapiroResult(statistic=0.9570927838936146, pvalue=1.8525333118501928e-31) ShapiroResult(statistic=0.9574171303805568, pvalue=2.3322124965091774e-31)
+ShapiroResult(statistic=0.953673978159674, pvalue=1.7701782809246285e-32) ShapiroResult(statistic=0.9541814488111208, pvalue=2.4864661476938125e-32)
+以下检验均按照group1p1-group2p1,group1p2-group2p2顺序
+ks_2samp检验内容:两组数据的分布是否有显著差异
+KstestResult(statistic=0.01486374896779521, pvalue=0.8171449632163493, statistic_location=0.6970855163346886, statistic_sign=1)
+KstestResult(statistic=0.01844205890448665, pvalue=0.5671302382980045, statistic_location=1.397140604588117, statistic_sign=-1)
+mannwhitneyu检验内容:两组数据的形状是否有显著差异
+MannwhitneyuResult(statistic=6548493.0, pvalue=0.5695007772879908)
+MannwhitneyuResult(statistic=6633331.5, pvalue=0.7038330905854748)
+median_test检验内容:两组数据的中位数是否有显著差异
+MedianTestResult(statistic=0.026974970224295156, pvalue=0.8695417515673295, median=0.869980206077057, table=array([[1811, 1819],
+       [1822, 1814]], dtype=int64))
+MedianTestResult(statistic=0.37215145161550617, pvalue=0.541833871955969, median=0.7812680355991197, table=array([[1822, 1795],
+       [1811, 1838]], dtype=int64))
+anderson_ksamp检验内容:两组数据的分布是否有显著差异
+Anderson_ksampResult(statistic=-0.7328041184469702, critical_values=array([0.325, 1.226, 1.961, 2.718, 3.752, 4.592, 6.546]), pvalue=0.803)
+Anderson_ksampResult(statistic=-0.2415294216577335, critical_values=array([0.325, 1.226, 1.961, 2.718, 3.752, 4.592, 6.546]), pvalue=0.4718)
